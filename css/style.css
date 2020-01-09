@@ -862,6 +862,13 @@ header .logo{
 }
 @media(max-width:768px){
 
+	.container2{
+		height: 700px;
+	}
+
+	.container2
+
+
     .container2 .center h1{
 	   font-size: 120px;
 	}
@@ -889,15 +896,28 @@ header .logo{
 		width:900px;
 		padding-right: 170px;
 	}	
-	.p1{
-		padding-left: 380px;
+
+	
+	.container4 .center .item .p1{
+		margin: 0 auto;
+		font-size: 65px;
+		width: 900px;
+		margin-left: 120px;
+		padding-top: 20px;
 	}
 
-	.p2{
-		padding-left: 380px;
+	.container4 .center .item .p2{
+		margin: 0 auto;
+		font-size: 40px;
+		width: 900px;
+		margin-left: 145px;
 	}
-	.p3{
-		padding-left: 380px;
+
+	.container4 .center .item .p3{
+		margin: 0 auto;
+		font-size: 40px;
+		width: 700px;
+		padding-left: 340px;
 	}
 	.q6{
 		margin-left: 300px;
@@ -905,7 +925,7 @@ header .logo{
 	.q7{
 		margin-right: 50px;
 	}
-	.p4{
+	/* .p4{
 		padding-left: 370px;
 	}
 	.p5{
@@ -913,26 +933,58 @@ header .logo{
 	}
 	.p6{
 		padding-left: 370px;
+	} */
+
+	.container4 .center .item .p4{
+		margin: 0 auto;
+		font-size: 65px;
+		width: 700px;
+		margin-left: 70px;
+		padding-top: 15px;
 	}
-	.p7{
-		width: 300px;
-		padding-left: 55px;
+
+	.container4 .center .item .p5{
+		margin: 0 auto;
+		font-size: 40px;
+		width: 800px;
+		margin-left: 10px;
 	}
-	.p8{
-		width: 300px;
-		padding-left: 55px;
+
+	.container4 .center .item .p6{
+		margin: 0 auto;
+		font-size: 40px;
+		width: 700px;
+		padding-left: 280px;
 	}
-	.p9{
-		width: 300px;
-		padding-left: 55px;
+
+	.container4 .center .item .p7{
+		margin: 0 auto;
+		font-size: 65px;
+		width: 600px;
+		margin-left: -50px;
+		padding-top: 15px;
+	}
+
+	.container4 .center .item .p8{
+		margin: 0 auto;
+		font-size: 40px;
+		width: 795px;
+		margin-left: -200px;
+	}
+
+	.container4 .center .item .p9{
+		margin: 0 auto;
+		font-size: 40px;
+		width: 600px;
+		margin-left: -50px;
 	}
 	.q8{
 		width: 600px;
 	}
 
-	.container4 .p1{
+	/* .container4 .p1{
 		font-size: 50px;
-	}
+	} */
 
 
 	.container5 h1{
@@ -1006,7 +1058,7 @@ header .logo{
 
 	 .container3{
 		 height: 720px;
-		 width: 1132px;
+		 width: 1133px;
 	 }
  
  
@@ -1185,7 +1237,7 @@ header .logo{
 	}
 
 	.container5{
-		width: 1139px;
+		width: 1132px;
 	}
 
 	.container7 .line2{
@@ -1199,48 +1251,54 @@ header .logo{
 	}
 
 	.pic1 .pic11{
-		width: 1130px;
+		width: 1000px;
+		margin: center;
+		margin-left: 60px;
 	}
+
+
     .pic2{
 		height: 700px;
 		padding-top: 550px;
-		width: 1130px;
+		width: 1000px;
+		margin-left: 60px;
 	}
 
     .pic2 .pic11{
-		height: 795px;
+		height: 700px;
 		padding-top: -160px;
-		width: 1130px;
+		width: 1000px;
+		margin-left: 60px;
 	
 	}
 	 
 
 	.container7 .pic3{
 		z-index: 6;
-		width: 1130px;
+		width: 1000px;
 		padding-top: 530px;
-		
+		margin-left: 75px;
 		
 	}
 	.container7 .pic4{
 		padding-top: 530px;
-		width: 1130px;
-		margin-left: -5px;	
+		width: 1000px;
+		margin-left: 60px;	
 	}
 
 	.container7 .pic5{
 		padding-top: 550px;
-		width: 1130px;
+		width: 1000px;
 		margin: none;
-		margin-left: 5px;
-		height: 810px;
+		margin-left: 70px;
+		height: 700px;
 	}
 
 	.container7 .pic6{
-		padding-top: 1px;
-		width: 1130px;
+		padding-top: 80px;
+		width: 1000px;
 		margin: none;
-		margin-left: 5px;
+		margin-left: 70px;
 		height: 800px;
 
 	}
